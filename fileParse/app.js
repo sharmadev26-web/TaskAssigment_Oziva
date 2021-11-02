@@ -1,5 +1,4 @@
 let fs = require("fs");
-const lineReader = require('line-reader');
 const getLastIndex = require('./getIndex');
 let data,Q1Line,Q2Line,Q3Line,Q4Line,Q5Line;
 let Q1index,Q2index,Q3index,Q4index,Q5index,bqIndex;
